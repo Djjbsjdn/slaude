@@ -1,9 +1,9 @@
 const config = {
-    TOKEN: "xoxc-5395251650500-5378279823639-5380981537847-e6805158d868ec09b2393c2911ee418933148d80f2456e0ac926096ef8ea126e",
-    COOKIE: "xoxd-3WpiG4o%2BbtfloVgYSN05vbhbnmtekGFUtPEFjWKLDn%2BdI477gCEs9a6c5P8XX0EmoflrUWpPZwHWdtUGyTN2jngkL6%2FALSSgsJTatKkxu4e89JyBoCjMba3G%2BBOL%2FMD3EpgFOmm2Dqu7vxFssQXmixpHNBEl9GEvBkl0228nwCNbf38573wTLmzzFchE7YkgKu%2FDYarMr0E%3D",
-    TEAM_ID: "w1686206977-tht522065",
-    CHANNEL: "C05BJLFH9D1",
-    CLAUDE_USER: "U05C8K1UVFS",
+    TOKEN: "xoxc-5303574216018-5342412352022-5535135044103-0d18873bbec9bfb1bc9ec0aa9482c7808bf53556dca7c91d5c0c87e3c71a5884",
+    COOKIE: "xoxd-7Sys%2FMTKqGC2WQ7JDygCyNBnvlwYZACXkOSfSQj7KGBJPanlU9hvFxBDUAj9dTYseaujHm%2Fxv2A5VRwbeChvLKJdrBstoVX1uXcp8ZWw5VD5of4ZEL9vfQ0nGeDpsxcgCtihJ01imkahySrpk4kdeLU%2Fmw9uQidW5FKOHewfdNz22C97fQZcn6D4lRAkUOnAorfxcm2w9aY%3D",
+    TEAM_ID: "w1684776751-ewv136023",
+    CHANNEL: "C05FR3ZEXL7",
+    CLAUDE_USER: "U059A6F0VB3",
 
     MAINPROMPT_LAST: false, // Will try to move the main prompt (main + nsfw prompt from SillyTavern) to the bottom, similar to a jailbreak
     MAINPROMPT_AS_PING: false, // Will use the main prompt as the ping message, if this true the PING_MESSAGE setting is ignored. Overrides MAINPROMPT_LAST.
